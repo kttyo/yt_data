@@ -3,3 +3,4 @@ __pycache__/
 data/scripts/credentials.py
 .DS_Store
 venv/
+.env
